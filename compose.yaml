@@ -1,0 +1,8 @@
+services:
+  tetris:
+    build: .
+    container_name: javascript-tetris
+    ports:
+      - "8080:80"
+    tty: true
+    stdin_open: true
