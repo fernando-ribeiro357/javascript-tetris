@@ -2,10 +2,6 @@
 
 This project is a simple yet fully functional implementation of the classic Tetris game using pure `HTML`, `CSS`, and `JavaScript`, with no external libraries. It's designed to be lightweight and straightforward, suitable for beginners looking to understand game development with web technologies.
 
-## Live Demo
-
-You can play the Tetris game online without any installation by visiting: [Play Tetris Online](https://vontanne.github.io/javascript-tetris/)
-
 ## How to Play
 
 To play the game locally, follow these steps:
@@ -31,11 +27,3 @@ Enjoy the classic block-stacking game where the goal is to clear as many lines a
 - Start, pause, and resume gameplay
 - Keyboard controls for moving and rotating Tetris blocks
 - Increasing difficulty as you progress in the game
-
-## Contributing
-
-Your contributions are welcome! If you'd like to improve the Tetris game, please check out the [contributing guidelines](./.github/CONTRIBUTING.md).
-
-## License
-
-This game is open-sourced under the [MIT license](./LICENSE).
